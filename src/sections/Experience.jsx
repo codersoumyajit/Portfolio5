@@ -38,7 +38,7 @@ const experiences = [
     company: "Haldia Petrochemicals Ltd.",
     duration: "2026",
     description:
-      "Gained hands-on experience in full-stack development, backend API design, database management, authentication systems, and AI-powered automation. I worked with technologies such as Python, Flask, SQLite, Ollama, and AI-driven ticket analysis to build a solution that streamlines ticket management, intelligent routing, workflow tracking, and support automation.",
+      "Gained hands-on experience in full-stack development, backend API design, database management, authentication systems, and AI-powered automation to build a solution that streamlines ticket management, intelligent routing, workflow tracking, and support automation.",
   },
 ];
 
